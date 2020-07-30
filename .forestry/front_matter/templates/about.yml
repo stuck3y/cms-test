@@ -32,4 +32,5 @@ fields:
   label: toc
 pages:
 - _pages/about.md
+- _pages/test-about-page-in-subdirectory.md
 - _pages/test-about-page.md
